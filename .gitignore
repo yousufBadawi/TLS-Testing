@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#IMPORTANT: openssl1.0.2l
+/openssl-1.0.2l 
+statistics.txt
+/certificates
+onioncertificates.db
